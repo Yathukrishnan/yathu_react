@@ -22,10 +22,10 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16">
           {/* biome-ignore lint/a11y/useKeyWithClickEvents: <explanation> */}
           <div className="flex-shrink-0 cursor-pointer" onClick={refreshPage}>
-            <img
-              src="/path/to/your/logo.png"
+             <img
+              src='Screenshot_2024-12-15_184305-removebg-preview.png'
               alt="Logo"
-              className="w-auto h-8"
+              className="w-auto h-28"
             />
           </div>
           <div className="hidden md:block">
